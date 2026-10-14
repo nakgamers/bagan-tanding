@@ -1,5 +1,7 @@
 # Bagan Tanding
 
+![Demo bagan 16 besar](demo.png)
+
 Aplikasi web pembuat bagan pertandingan sistem gugur — dari daftar atlet sampai bagan final yang siap cetak. Satu file, tanpa server, tanpa proses build.
 
 Dikembangkan untuk **PORTINA DKI Jakarta** (Persatuan Olahraga Tradisional Indonesia DKI Jakarta) dan dipakai pada Kejuaraan Olahraga Tradisional Hadang 2026.
